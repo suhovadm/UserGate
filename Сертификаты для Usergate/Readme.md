@@ -1,1 +1,1 @@
-(Управление сертификатами Usergate)[https://docs.usergate.com/upravlenie-sertifikatami_90.html]
+[Управление сертификатами Usergate](https://docs.usergate.com/upravlenie-sertifikatami_90.html)
